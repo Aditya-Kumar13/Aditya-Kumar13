@@ -39,7 +39,7 @@ I don't just write code; I craft solutions using modern standards.
 Have a project in mind or just want to say hi?
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Aditya Kumar" /></a>
+<a href="https://www.linkedin.com/in/aditya-kumar-28301b375/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Aditya Kumar" /></a>
 <a href="mailto:aditya140706@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="aditya140706" /></a>
 <a href="https://instagram.com/YOUR_INSTA_USERNAME" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="insta" /></a>
 </p>
