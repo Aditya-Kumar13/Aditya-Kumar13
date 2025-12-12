@@ -14,7 +14,7 @@ I am a **Developer** based in India with a focus on creating bold, high-performa
 ---
 
 ### // WHAT I'M WORKING ON
-Currently, I am refining my personal portfolio to be a "brutalist" masterpiece using **React** and **GSAP**.
+Currently, I am refining my personal portfolio to be a "brutalist" masterpiece using **HTML/CSS/JS** and **GSAP**.
 
 * 🔭 **Latest Project:** [My Portfolio Website](https://aditya-kumar13.github.io/CodeAlpha-Portfolio/)
 * 🌱 **Learning:** Advanced Animation Libraries & 3D Web/Three.js
